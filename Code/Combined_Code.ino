@@ -19,7 +19,7 @@ const char* ssid = "Siluni";
 const char* password = "123456789a";
 
 // Telegram credentials
-const char* botToken = "7341188142:AAG8kMbb6_9-TEHnvuw-MgfPuUxLck4JmTw";
+const char* botToken = "8819564661:AAFt-TpOIDUPwKt0hjK10QglucprF8w_5RI";
 const int64_t chatID = 848564756;
 
 // Static IP config
