@@ -24,6 +24,12 @@ A smart navigation aid designed to enhance the safety and independence of visual
     *   Type-C Battery Charging Module
 *   **Other:** D400 Transistor (Motor driving), 1k Resistor, Power Switch
 
+### System Design
+![Stick Design](Stick%20Design.png)
+
+### Circuit Schematic
+![Circuit Schematic](Circuit%20Schematic.png)
+
 ##  System Architecture
 The system operates on an ESP32 microcontroller powered by a 3.7V Li-Ion battery, stepped up to 5V using an MT3608 boost converter. 
 1.  **Sensing:** The HC-SR04 ultrasonic sensor continuously monitors the path ahead.
